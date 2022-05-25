@@ -41,7 +41,7 @@ a:hover{
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    padding: 220px;
+    padding: 160px;
 }
 
 .container h1{
@@ -49,7 +49,15 @@ a:hover{
     font-weight: bolder;
     font-family: fantasy;
     letter-spacing: 2px;
-    font-size: 50px;
+    font-size: 60px;
+}
+
+.container p{
+    color: white;
+    font-weight: bolder;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    font-size: 20px;
 }
 
 
